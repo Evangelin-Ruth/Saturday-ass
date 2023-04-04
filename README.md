@@ -1,4 +1,4 @@
-## Q1. Write a Java program to join two array lists
+## 1.Write a Java program to join two array lists
 ```
 import java.util.ArrayList;
 public class Ques1 {
@@ -20,8 +20,7 @@ public class Ques1 {
 }
 ```
 
-
-## Write a Java program to retrieve but does not remove, the first element of a linked list.
+## 2.Write a Java program to retrieve but does not remove, the first element of a linked list.
 ```
 import java.util.*;
 public class Ques2 {
@@ -41,8 +40,7 @@ public class Ques2 {
 }
 ```
 
-
-## Write a Java program to check if a particular element exists in a linked list
+## 3.Write a Java program to check if a particular element exists in a linked list
 ```
 import java.util.LinkedList;
 public class Ques3 {
@@ -67,7 +65,7 @@ public class Ques3 {
 }
 ```
 
-## Write a Java program to remove all of the elements from a hash set
+## 4.Write a Java program to remove all of the elements from a hash set
 ```
 import java.util.HashSet;
 public class Ques4 {
@@ -87,7 +85,7 @@ public class Ques4 {
 }
 ```
 
-## Write a Java program to compare two hash set
+## 5.Write a Java program to compare two hash set
 ```
 import java.util.HashSet;
 public class Ques5 {
@@ -109,7 +107,8 @@ public class Ques5 {
     }
 }
 ```
-## Write a Java program to retrieve and remove the last element of a tree set.
+
+## 6.Write a Java program to retrieve and remove the last element of a tree set.
 ```
 import java.util.TreeSet;
 public class Ques6 {
@@ -127,7 +126,8 @@ public class Ques6 {
     }
 }
 ```
-## Write a Java program to convert a Priority Queue elements to a string representation
+
+## 7.Write a Java program to convert a Priority Queue elements to a string representation
 ```
 import java.util.PriorityQueue;
 public class Ques7 {
@@ -145,7 +145,8 @@ public class Ques7 {
     }
 }
 ```
-## Write a Java program to get a collection view of the values contained in this map.
+
+## 8.Write a Java program to get a collection view of the values contained in this map.
 ```
 import java.util.HashMap;
 public class Ques8 {
@@ -161,7 +162,8 @@ public class Ques8 {
     }
 }
 ```
-## Write a Java program to get a set view of the keys contained in this map.
+
+## 9.Write a Java program to get a set view of the keys contained in this map.
 ```
 import java.util.HashMap;
 import java.util.Set;
@@ -181,7 +183,8 @@ public class Ques9 {
     }
 }
 ```
-## Write a Java program to get a key-value mapping associated with the least key greater than or equal to the given key. Return null if there is no such key.
+
+## 10.Write a Java program to get a key-value mapping associated with the least key greater than or equal to the given key. Return null if there is no such key.
 ```
 import java.util.TreeMap;
 public class Ques10 {
@@ -205,7 +208,8 @@ public class Ques10 {
     }
 }
 ```
-## Write a Java program to get the least key greater than or equal to the given key. Returns null if there is no such key.
+
+## 11.Write a Java program to get the least key greater than or equal to the given key. Returns null if there is no such key.
 import java.util.TreeMap;
 
 public class Ques11 {
